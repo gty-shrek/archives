@@ -1,0 +1,4 @@
+this is a test
+import sys
+reloads(sys)
+sys.setencoding('utf-8')
